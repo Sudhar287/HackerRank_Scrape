@@ -6,3 +6,4 @@ A tool to scrape all your HackerRank submission codes.
 - [ ] Create well defined fucntions for each task
 - [ ] Automatically get the submissions pages variable.
 - [ ] Handle the StaleElementReferenceException exceptions
+- [ ] Functionality to group by subdomains
