@@ -12,8 +12,8 @@ The program goes into each challenge from the submissions page of the user and s
 The result is stored in a file that has the name: <challenge name>.<langauge>
 
 ## To Do
-- [ ] Replace Time.Sleep() with Selenium wait functionality
+- [ ] Replace Time.Sleep() with Selenium wait functionality to support users with slow internet speeds
 - [x] Create well defined functions for each task
-- [ ] Automatically get the submissions pages variable.
+- [ ] Argparse to get the the location of browser driver
 - [ ] Handle the StaleElementReferenceException exceptions
 - [ ] Functionality to group by subdomains
