@@ -13,7 +13,7 @@ The result is stored in a file that has the name: <challenge name>.<langauge>
 
 ## To Do
 - [ ] Replace Time.Sleep() with Selenium wait functionality
-- [x] Create well defined fucntions for each task
+- [x] Create well defined functions for each task
 - [ ] Automatically get the submissions pages variable.
 - [ ] Handle the StaleElementReferenceException exceptions
 - [ ] Functionality to group by subdomains
