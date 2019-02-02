@@ -1,4 +1,7 @@
 # HackerRank_Scrape
+
+https://travis-ci.org/Sudhar287/HackerRank_Scrape.svg?branch=master
+
 A tool to scrape all your HackerRank submission codes.
 
 ## Working
