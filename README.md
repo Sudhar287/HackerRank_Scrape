@@ -2,6 +2,9 @@
 A tool to scrape all your HackerRank submission codes.
 
 ## Working
+
+![](working.gif)
+
 ### Requirements:
 - Python3+
 - Tkinter module
