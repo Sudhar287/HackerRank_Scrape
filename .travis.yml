@@ -1,3 +1,6 @@
 language: python
 python :
   - 3.5.2
+
+before_script:
+  - composer install --no-interaction
