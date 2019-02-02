@@ -24,8 +24,8 @@ class Scraper:
 		# Insert the location of your browser driver below.
 		self.browser = webdriver.Chrome(desired_capabilities=Scraper.caps,executable_path='/home/sudharshann/Documents/chromedriver')
 		self.browser.implicitly_wait(10)
-		self.start = 1
-		self.end=32
+		self.start = start
+		self.end=end
 
 	def login(self):
 		self.browser.get('https://www.hackerrank.com/dashboard')
