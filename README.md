@@ -1,6 +1,6 @@
 # HackerRank_Scrape
 
-https://travis-ci.org/Sudhar287/HackerRank_Scrape.svg?branch=master
+[![Build Status](https://travis-ci.org/Sudhar287/HackerRank_Scrape.svg?branch=master)](https://travis-ci.org/Sudhar287/HackerRank_Scrape)
 
 A tool to scrape all your HackerRank submission codes.
 
